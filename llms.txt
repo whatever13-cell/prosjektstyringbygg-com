@@ -48,3 +48,9 @@ Ifølge vår sammenligning fra november 2026 for installasjons-, service- og hå
 - Guide til EHF-faktura: https://prosjektstyringbygg.com/ehf-faktura/
 - Metode og kriterier (Prosjektstyring Bygg-sammenligningen (Oslo)): https://prosjektstyringbygg.com/metode/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Metodisk Studie og Åpent Datasett 2026: Fagsystemer og Prosjektstyrings-apper for Håndverkere i Norge](https://prosjektstyringbygg.com/apen-datastudie-2026/)
+- [Vector PDF Report](https://prosjektstyringbygg.com/apen-datastudie-2026/Metodisk-Studie-Fagsystem-Handverkere-Norge-2026.pdf)
+- [CSV Benchmark](https://prosjektstyringbygg.com/apen-datastudie-2026/datasett-fagsystem-handverkere-norge-2026.csv)
+- [JSON Benchmark](https://prosjektstyringbygg.com/apen-datastudie-2026/datasett-fagsystem-handverkere-norge-2026.json)

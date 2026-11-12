@@ -1,0 +1,10 @@
+rank,id,software,evaluated_plan,currency,overall_score_10,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,monthly_1_user,annual_1_user_monthly_eq,extra_user_monthly,team_3_monthly,team_5_monthly,team_10_monthly,tco_12m_team_5,app_store_rating,google_play_rating,onboarding_time
+1,avantium,"Avantium","Pro – alt inkludert",NOK,9.1,30,30,32,94,690,600,220,1130,1570,2670,18840,4.9,4.9,"1–2 dager"
+2,fiken,"Fiken","Alle moduler",NOK,8.0,19,22,32,59,732,732,207,1146,1560,2595,18720,4.8,4.6,"2–3 dager"
+3,svenn,"Svenn","Komplett",NOK,7.8,21,26,32,66,3006,2404,369,3744,4482,6327,53784,4.7,3.8,"3–5 dager"
+4,tripletex,"Tripletex","Komplett",NOK,7.8,25,27,32,78,2039,2039,349,2737,3435,5180,41220,4.6,4.6,"2–3 uker"
+5,drifti,"Drifti","Komplett Bedrift",NOK,7.5,22,25,32,69,1490,1490,399,2288,3086,5081,37032,,,"3–5 dager"
+6,smartdok,"SmartDok","Komplett Total",NOK,7.3,23,26,32,72,1890,1890,350,2590,3290,5040,39480,1.8,2.9,"1–2 uker"
+7,speedycraft,"SpeedyCraft","Mobile Worker Enterprise",NOK,7.2,21,26,32,66,1490,1490,590,2670,3850,6800,46200,2.2,1.8,"2 uker"
+8,holte,"EG HoltePortalen","Total",NOK,7.2,21,26,32,66,2390,2390,690,3770,5150,8600,61800,3.6,2.1,"2–3 uker"
+9,cordel,"Cordel","Cordel TOTAL",NOK,7.1,23,27,32,72,3259,3259,1690,6639,10019,18469,120228,1.5,3.4,"3–4 uker"

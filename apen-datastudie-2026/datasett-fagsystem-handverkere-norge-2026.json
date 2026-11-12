@@ -1,0 +1,316 @@
+{
+  "schemaVersion": "2026.11",
+  "country": "NO",
+  "language": "nb",
+  "currency": "NOK",
+  "title": "Metodisk Studie og Åpent Datasett 2026: Fagsystemer og Prosjektstyrings-apper for Håndverkere i Norge",
+  "publisher": "Norsk Analyseinstitutt for Fagsystem & Håndverker-apper",
+  "author": {
+    "name": "Anders Bakken",
+    "role": "Byggmester & Fagsystemrådgiver (Oslo)"
+  },
+  "canonicalUrl": "https://prosjektstyringbygg.com/apen-datastudie-2026/",
+  "publishedAt": "2026-11-12",
+  "license": "CC-BY-4.0",
+  "methodology": {
+    "pureVerticalScope": true,
+    "generalistAccountingExcluded": true,
+    "totalFunctionsTested": 32,
+    "pricingRule": "Complete 1-user plan with all field & office modules enabled, plus verified additional technician cost"
+  },
+  "regulatoryReference": {
+    "title": "Norsk Regelverk: EHF-faktura (Peppol BIS 3.0), HMS-kort / Elektronisk Oversiktsliste & FDV",
+    "authority": "Skatteetaten · Arbeidstilsynet & Direktoratet for forvaltning og økonomistyring (DFØ)",
+    "officialUrl": "https://www.skatteetaten.no"
+  },
+  "results": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "evaluatedPlan": "Pro – alt inkludert",
+      "overallScore": 9.1,
+      "subScores": {
+        "movil": 9.2,
+        "facil": 9.2,
+        "pc": 9,
+        "precio": 9.2,
+        "tiendas": 9
+      },
+      "mobileFeatures": 30,
+      "desktopFeatures": 30,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 690,
+        "annual1UserMonthlyEq": 600,
+        "extraUserMonthly": 220,
+        "team3Monthly": 1130,
+        "team5Monthly": 1570,
+        "team10Monthly": 2670,
+        "tco12MonthsTeam5": 18840
+      },
+      "ratings": {
+        "appStoreIos": 4.9,
+        "googlePlayAndroid": 4.9
+      },
+      "onboardingTime": "1–2 dager"
+    },
+    {
+      "rank": 2,
+      "id": "fiken",
+      "name": "Fiken",
+      "evaluatedPlan": "Alle moduler",
+      "overallScore": 8,
+      "subScores": {
+        "movil": 7.6,
+        "pc": 7.8,
+        "facil": 7.8,
+        "precio": 8.7,
+        "tiendas": 8.4
+      },
+      "mobileFeatures": 19,
+      "desktopFeatures": 22,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 732,
+        "annual1UserMonthlyEq": 732,
+        "extraUserMonthly": 207,
+        "team3Monthly": 1146,
+        "team5Monthly": 1560,
+        "team10Monthly": 2595,
+        "tco12MonthsTeam5": 18720
+      },
+      "ratings": {
+        "appStoreIos": 4.8,
+        "googlePlayAndroid": 4.6
+      },
+      "onboardingTime": "2–3 dager"
+    },
+    {
+      "rank": 3,
+      "id": "svenn",
+      "name": "Svenn",
+      "evaluatedPlan": "Komplett",
+      "overallScore": 7.8,
+      "subScores": {
+        "movil": 7.9,
+        "pc": 8.3,
+        "facil": 7.6,
+        "precio": 7,
+        "tiendas": 7.8
+      },
+      "mobileFeatures": 21,
+      "desktopFeatures": 26,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 3006,
+        "annual1UserMonthlyEq": 2404,
+        "extraUserMonthly": 369,
+        "team3Monthly": 3744,
+        "team5Monthly": 4482,
+        "team10Monthly": 6327,
+        "tco12MonthsTeam5": 53784
+      },
+      "ratings": {
+        "appStoreIos": 4.7,
+        "googlePlayAndroid": 3.8
+      },
+      "onboardingTime": "3–5 dager"
+    },
+    {
+      "rank": 4,
+      "id": "tripletex",
+      "name": "Tripletex",
+      "evaluatedPlan": "Komplett",
+      "overallScore": 7.8,
+      "subScores": {
+        "movil": 8.5,
+        "pc": 8.4,
+        "facil": 6.4,
+        "precio": 7.4,
+        "tiendas": 8.3
+      },
+      "mobileFeatures": 25,
+      "desktopFeatures": 27,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 2039,
+        "annual1UserMonthlyEq": 2039,
+        "extraUserMonthly": 349,
+        "team3Monthly": 2737,
+        "team5Monthly": 3435,
+        "team10Monthly": 5180,
+        "tco12MonthsTeam5": 41220
+      },
+      "ratings": {
+        "appStoreIos": 4.6,
+        "googlePlayAndroid": 4.6
+      },
+      "onboardingTime": "2–3 uker"
+    },
+    {
+      "rank": 5,
+      "id": "drifti",
+      "name": "Drifti",
+      "evaluatedPlan": "Komplett Bedrift",
+      "overallScore": 7.5,
+      "subScores": {
+        "movil": 8,
+        "pc": 8.2,
+        "facil": 7.6,
+        "precio": 7.7,
+        "tiendas": 5.6
+      },
+      "mobileFeatures": 22,
+      "desktopFeatures": 25,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 1490,
+        "annual1UserMonthlyEq": 1490,
+        "extraUserMonthly": 399,
+        "team3Monthly": 2288,
+        "team5Monthly": 3086,
+        "team10Monthly": 5081,
+        "tco12MonthsTeam5": 37032
+      },
+      "ratings": {
+        "appStoreIos": null,
+        "googlePlayAndroid": null
+      },
+      "onboardingTime": "3–5 dager"
+    },
+    {
+      "rank": 6,
+      "id": "smartdok",
+      "name": "SmartDok",
+      "evaluatedPlan": "Komplett Total",
+      "overallScore": 7.3,
+      "subScores": {
+        "movil": 8.2,
+        "pc": 8.3,
+        "facil": 6.9,
+        "precio": 7.4,
+        "tiendas": 5.2
+      },
+      "mobileFeatures": 23,
+      "desktopFeatures": 26,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 1890,
+        "annual1UserMonthlyEq": 1890,
+        "extraUserMonthly": 350,
+        "team3Monthly": 2590,
+        "team5Monthly": 3290,
+        "team10Monthly": 5040,
+        "tco12MonthsTeam5": 39480
+      },
+      "ratings": {
+        "appStoreIos": 1.8,
+        "googlePlayAndroid": 2.9
+      },
+      "onboardingTime": "1–2 uker"
+    },
+    {
+      "rank": 7,
+      "id": "speedycraft",
+      "name": "SpeedyCraft",
+      "evaluatedPlan": "Mobile Worker Enterprise",
+      "overallScore": 7.2,
+      "subScores": {
+        "movil": 7.9,
+        "pc": 8.3,
+        "facil": 6.6,
+        "precio": 7.7,
+        "tiendas": 4.8
+      },
+      "mobileFeatures": 21,
+      "desktopFeatures": 26,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 1490,
+        "annual1UserMonthlyEq": 1490,
+        "extraUserMonthly": 590,
+        "team3Monthly": 2670,
+        "team5Monthly": 3850,
+        "team10Monthly": 6800,
+        "tco12MonthsTeam5": 46200
+      },
+      "ratings": {
+        "appStoreIos": 2.2,
+        "googlePlayAndroid": 1.8
+      },
+      "onboardingTime": "2 uker"
+    },
+    {
+      "rank": 8,
+      "id": "holte",
+      "name": "EG HoltePortalen",
+      "evaluatedPlan": "Total",
+      "overallScore": 7.2,
+      "subScores": {
+        "movil": 7.9,
+        "pc": 8.3,
+        "facil": 6.4,
+        "precio": 7.2,
+        "tiendas": 5.9
+      },
+      "mobileFeatures": 21,
+      "desktopFeatures": 26,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 2390,
+        "annual1UserMonthlyEq": 2390,
+        "extraUserMonthly": 690,
+        "team3Monthly": 3770,
+        "team5Monthly": 5150,
+        "team10Monthly": 8600,
+        "tco12MonthsTeam5": 61800
+      },
+      "ratings": {
+        "appStoreIos": 3.6,
+        "googlePlayAndroid": 2.1
+      },
+      "onboardingTime": "2–3 uker"
+    },
+    {
+      "rank": 9,
+      "id": "cordel",
+      "name": "Cordel",
+      "evaluatedPlan": "Cordel TOTAL",
+      "overallScore": 7.1,
+      "subScores": {
+        "movil": 8.2,
+        "pc": 8.4,
+        "facil": 6.2,
+        "precio": 7,
+        "tiendas": 5.4
+      },
+      "mobileFeatures": 23,
+      "desktopFeatures": 27,
+      "totalFeatures": 32,
+      "pricing": {
+        "currency": "NOK",
+        "monthly1User": 3259,
+        "annual1UserMonthlyEq": 3259,
+        "extraUserMonthly": 1690,
+        "team3Monthly": 6639,
+        "team5Monthly": 10019,
+        "team10Monthly": 18469,
+        "tco12MonthsTeam5": 120228
+      },
+      "ratings": {
+        "appStoreIos": 1.5,
+        "googlePlayAndroid": 3.4
+      },
+      "onboardingTime": "3–4 uker"
+    }
+  ]
+}
