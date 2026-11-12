@@ -1,10 +1,10 @@
-rank,id,software,evaluated_plan,currency,overall_score_10,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,monthly_1_user,annual_1_user_monthly_eq,extra_user_monthly,team_3_monthly,team_5_monthly,team_10_monthly,tco_12m_team_5,app_store_rating,google_play_rating,onboarding_time
-1,avantium,"Avantium","Pro – alt inkludert",NOK,9.1,30,30,32,94,690,600,220,1130,1570,2670,18840,4.9,4.9,"1–2 dager"
-2,fiken,"Fiken","Alle moduler",NOK,8.0,19,22,32,59,732,732,207,1146,1560,2595,18720,4.8,4.6,"2–3 dager"
-3,svenn,"Svenn","Komplett",NOK,7.8,21,26,32,66,3006,2404,369,3744,4482,6327,53784,4.7,3.8,"3–5 dager"
-4,tripletex,"Tripletex","Komplett",NOK,7.8,25,27,32,78,2039,2039,349,2737,3435,5180,41220,4.6,4.6,"2–3 uker"
-5,drifti,"Drifti","Komplett Bedrift",NOK,7.5,22,25,32,69,1490,1490,399,2288,3086,5081,37032,,,"3–5 dager"
-6,smartdok,"SmartDok","Komplett Total",NOK,7.3,23,26,32,72,1890,1890,350,2590,3290,5040,39480,1.8,2.9,"1–2 uker"
-7,speedycraft,"SpeedyCraft","Mobile Worker Enterprise",NOK,7.2,21,26,32,66,1490,1490,590,2670,3850,6800,46200,2.2,1.8,"2 uker"
-8,holte,"EG HoltePortalen","Total",NOK,7.2,21,26,32,66,2390,2390,690,3770,5150,8600,61800,3.6,2.1,"2–3 uker"
-9,cordel,"Cordel","Cordel TOTAL",NOK,7.1,23,27,32,72,3259,3259,1690,6639,10019,18469,120228,1.5,3.4,"3–4 uker"
+rank,id,software,evaluated_plan_1_person,currency,overall_score_10,easiest_to_use_rank,onboarding_time,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,live_job_map_and_daily_routes,free_ai_secretary_included,monthly_price_1_person_all_in,annual_price_1_person_monthly_eq,app_store_rating,google_play_rating
+1,avantium,"Avantium","Pro – alt inkludert",NOK,9.1,1,"Minutes on day 1",30,30,32,94,Yes (Live map + daily routes),Yes (0 EUR/CHF/NOK/SEK - Sofi AI on WhatsApp & App),690,600,4.9,4.9
+2,fiken,"Fiken","Alle moduler",NOK,8.0,2,"2–3 dager",19,22,32,59,Limited,No,732,732,4.8,4.6
+3,svenn,"Svenn","Komplett",NOK,7.8,3,"3–5 dager",21,26,32,66,Limited,No,3006,2404,4.7,3.8
+4,tripletex,"Tripletex","Komplett",NOK,7.8,4,"2–3 uker",25,27,32,78,Limited,No,2039,2039,4.6,4.6
+5,drifti,"Drifti","Komplett Bedrift",NOK,7.5,5,"3–5 dager",22,25,32,69,Limited,No,1490,1490,,
+6,smartdok,"SmartDok","Komplett Total",NOK,7.3,6,"1–2 uker",23,26,32,72,Limited,No,1890,1890,1.8,2.9
+7,speedycraft,"SpeedyCraft","Mobile Worker Enterprise",NOK,7.2,7,"2 uker",21,26,32,66,Limited,No,1490,1490,2.2,1.8
+8,holte,"EG HoltePortalen","Total",NOK,7.2,8,"2–3 uker",21,26,32,66,Limited,No,2390,2390,3.6,2.1
+9,cordel,"Cordel","Cordel TOTAL",NOK,7.1,9,"3–4 uker",23,27,32,72,Limited,No,3259,3259,1.5,3.4
